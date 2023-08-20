@@ -23,3 +23,4 @@ const timeResult = beforeTimeCheck && afterTimeCheck;
 console.log("Fulfilled Sheila's time preference? " + timeResult);
 const overallCheck = timeResult && dayResult;
 console.log("Program scheduled well? " + overallCheck);
+console.log("Test");
